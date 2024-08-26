@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### How to Reach Me?
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-filoni-6700b157/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%F0%9F%95%B6-leonardo-filoni-6700b157/)
 
 #### Tech Stack
 
